@@ -1,4 +1,4 @@
-# 🌟 Truthduo: The Premium Social Networking Service 🌟  
+# 🌟 Truthduo: The Premium Social Networking Service
 
 Welcome to **Truthduo**, the app that redefines connections with authenticity and purpose. Designed for the modern individual, Truthduo seamlessly blends **dating**, **social media**, and **live streaming** into a single platform, making every interaction meaningful and exciting.  
 
