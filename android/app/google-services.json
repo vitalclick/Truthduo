@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178122085922",
+    "project_id": "truthduo-3ca69",
+    "storage_bucket": "truthduo-3ca69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178122085922:android:607bde77581be76ff19c7b",
+        "android_client_info": {
+          "package_name": "com.truthduo.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1jfPu6d00MBHISDF9lPj-R7AVBQEzjQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
